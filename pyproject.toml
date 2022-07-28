@@ -10,6 +10,7 @@ numpy = "^1.22.2"
 replit = "^3.2.4"
 PyPDF2 = "^2.8.1"
 reportlab = "^3.6.11"
+ghostscript = "^0.7"
 
 [tool.poetry.dev-dependencies]
 
